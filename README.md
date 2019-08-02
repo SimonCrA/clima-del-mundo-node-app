@@ -9,7 +9,7 @@ Para utilizar el programa se debe hacer lo siguiente:
 
 -Ubicarse en el directorio del programa y abrir una terminal
 
--Ejecutar el comando ``` npm instal ``` para instalar los modulos necesarios
+-Ejecutar el comando ``` npm install ``` para instalar los modulos necesarios
 
 -Luego requerir el clima de la ciudad escribiendo...
 
